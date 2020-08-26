@@ -1,3 +1,4 @@
 var ele = prompt("What is your first name?")
 
-document.getElementById(".stringy").write."Name: " + ele;
+document.getElementById(".stringy");
+document.write("Name: " + ele);
